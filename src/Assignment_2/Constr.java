@@ -23,7 +23,7 @@ public class Constr {
 		pfno= 3483;
 	    acc=46948987632l;
 	}
-
+//---comment -clone--1708
 
 	public static void main (String[]args){
 
