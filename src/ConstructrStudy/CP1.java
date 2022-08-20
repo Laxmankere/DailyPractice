@@ -7,7 +7,7 @@ public class CP1{
 	// variable declaration
 		
 		String name;
-		byte age;
+		byte ages;
 		char gender;
 		String land;
 		String village;
@@ -29,7 +29,7 @@ public class CP1{
 		// variable assigning
 
 		name="Dadarao";	
-		age=50;
+		ages=50;
 		gender='M';
 		land="5 acres";
 		village="Yedur";
@@ -39,7 +39,7 @@ public class CP1{
 		// usage or printing output
 		
 		System.out.println(" Farmer name is "+name);
-		System.out.println(" Farmer age is "+age);
+		System.out.println(" Farmer age is "+ages);
 		System.out.println(" Farmer gender is "+gender);
 		System.out.println(" Farmer land is "+land);
 		System.out.println(" Farmer village name is "+village);
