@@ -9,7 +9,7 @@ public static void sample()
 
 {
 	System.out.println(" my name is "+name);
-
+	System.out.println(" my name is "+name);
 }
 
 public void sample1()
